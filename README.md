@@ -4,7 +4,7 @@
 
 - A MERN application that allows a user to look up any book title using the Google Book API, and gives them the option to save them to their own list!
 
-<img src="./Develop/demo.png">
+<img src="./demo.png">
 
 ## Usage
 
