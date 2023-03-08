@@ -22,7 +22,7 @@
 
 - If needed, remove the book from your list.
 
-- Or, navigate to the deployed link below!
+- Or, navigate to the deployed link below.
 
 ## Deployed Link
 
